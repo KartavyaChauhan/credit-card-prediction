@@ -1,4 +1,5 @@
 Credit Card Default Prediction
+
 📌 Abstract
 Predicting credit default is crucial for managing risk in consumer lending. This project explores machine learning techniques to enhance the accuracy of credit default prediction, aiding lenders in making informed decisions. We applied various models, including ensemble and traditional classifiers, to build interpretable and robust predictive systems.
 
